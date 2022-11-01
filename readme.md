@@ -13,5 +13,12 @@
 #### Honest time to finish the project !
  - I had taken around 4 hours to finish this project, which contains 20 assignments.
 
+### Link of the website
+- [Please Click Here](https://rock-paper-scissor-game45.netlify.app/)
+
+- ![](https://img.shields.io/badge/HTML--CSS-JavaScript-lightgrey)
+
+![](./images1/pa.png)
+![](./images1/paa.png)
  ### Feedback
  - If you have any feedback, please reach out to me at akshunverma45@gmail.com
