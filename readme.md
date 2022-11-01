@@ -1,6 +1,6 @@
 ### By Akshun Verma
 
-## Project Name: Rock Paper Scissor Game 
+## Project Name: Rock Paper Scissor Game
 
 - In this project I have made a game of rock, paper and scissor using HTML, CSS and JavaScript.In this game user can play with computer and even score of user and computer is also going to display side by side. This project really interesting to make. 
 
