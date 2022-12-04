@@ -11,7 +11,7 @@
 
 
 #### Honest time to finish the project !
- - I had taken around 4 hours to finish this project, which contains 20 assignments.
+ - I had taken around 3 hours to finish this project.
 
 ### Link of the website
 - [Please Click Here](https://rock-paper-scissor-game45.netlify.app/)
